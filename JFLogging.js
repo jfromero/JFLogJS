@@ -22,8 +22,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 /*
-JFLogJS  (v1.0 - 2017-)
+JFLogJS  (v1.0 - 2017-01-04)
+@Author: Juan Francisco Romero Moreno
 
+JFLogJS library is a very little Javascript library that allows to make logging easier and better.
 
 */
 "use strict";
