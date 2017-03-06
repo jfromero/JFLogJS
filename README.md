@@ -2,7 +2,6 @@
 
 JFLogJS library is a very little Javascript library that allows to make logging easier and better.
 
-
 # Installation
 
 Add this line to your script:
@@ -102,11 +101,11 @@ LOG.onMessage(msgType, func)
 Allowed msgType are:
 
 ```javacript
-ORQ.level_all
-ORQ.level_debug
-ORQ.level_info
-ORQ.level_warning
-ORQ.level_error
-ORQ.level_critical
-ORQ.level_nomessages
+LOG.level_all
+LOG.level_debug
+LOG.level_info
+LOG.level_warning
+LOG.level_error
+LOG.level_critical
+LOG.level_nomessages
 ```
